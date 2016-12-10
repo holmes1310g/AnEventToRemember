@@ -84,5 +84,5 @@ margin-left:-100px;
 .intro-text {
 	color: #303438;
 	margin-top: 25%;
-	font-family: Batang, Garamond serif;
+	font-family: Batang, Garamond serif !important;
 }
