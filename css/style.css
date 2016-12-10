@@ -1,0 +1,83 @@
+footer, footer h3, .navbar-custom {
+	font-family:   Batang, Garamond, Serif !important; 
+}
+
+#about {
+   background-image: url('../images/weddinglgtr.jpg');
+   background-attachment: fixed;
+}
+
+header {
+   background-image: url('../images/snowlgt.jpg') ;
+   background-attachment: fixed;
+   height:760px;
+}
+
+header .container {
+    padding-top:100px;
+}
+.service-box h3 {
+  color:#e69860;
+}
+
+.service-box p {
+  color:white;
+}
+hr.star-light:after {
+   background:#212121;
+   }
+
+hr.star-back:after {
+   background:#727272;
+}
+
+.caption:hover {
+   background:rgba(230, 152, 96, .9) !important	;
+}
+
+.caption-content {
+   top:25% !important;
+
+}
+
+.caption-content i {
+   padding:.7% 10% ;  
+
+}
+
+.navbar-brand img {
+position: absolute;
+margin-left:-100px;
+    margin-top: -40px;
+    z-index: -1;
+}
+
+.btn-success {
+	color:#fff;
+	background:#2c3e50;
+
+}
+.alert-success {
+	color:#2c3e50;
+	background:white;
+	border: 1px solid #2c3e50; 
+}
+
+.btn-success:hover {
+  color:#2c3e50;
+  background-color:white;
+  border: 1px solid #2c3e50; 
+
+}
+
+.btn-success:active, .btn-success:focus {
+  color:white;
+  background-color:#31708f;
+  border: 1px solid #31708f; 
+
+}
+
+.navbar-nav li a:hover {
+	background:#f9f9f9 !important;
+}
+
